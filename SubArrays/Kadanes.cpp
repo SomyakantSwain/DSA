@@ -2,7 +2,7 @@
 #include<climits>
 using namespace std;
 
-void maxSubarraySum(int *arr,int n){ // Fully Optimized 
+void maxSubarraySum(int *arr,int n){ // Fully Optimized and very beautiful
     int max_sum=INT_MIN;
     int currsum=0;
     for(int i=1;i<n;i++){
