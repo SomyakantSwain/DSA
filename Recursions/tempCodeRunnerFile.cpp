@@ -1,0 +1,1 @@
+ cout<<search(arr,size,key,i);
